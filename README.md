@@ -137,9 +137,6 @@ Challenge Completion and Target Score of 100% are mandatory to proceed to the in
 
 My Obtained Score: 100%
 
-## Contacts: 
-Gustavo NNóbrega
-[gustavonnobrega@gmail.com](mailto:gustavonnobrega@gmail.com)
 
 ### Codenation Website:
 https://www.codenation.dev
